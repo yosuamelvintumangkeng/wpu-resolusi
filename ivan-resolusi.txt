@@ -1,7 +1,8 @@
-Halo Pak, selamat siang. Perkenalkan nama saya Ivan dari Semarang
+Halo Semua, semoga harimu penuh kejutan. Perkenalkan nama saya Baron dari Pamanukan-Subang
 
 Resolusi saya di tahun ini:
-- Membuat website dengan menggunakan framework Laravel, Flask, dan Django
-- Belajar membuat tema website sendiri dengan menggunakan Photoshop
+- Membuat project website dengan menggunakan framework Laravel 8.
+- Ingin menjadi editor berkelas.
+- Melatih skill coding agar menjadi expert
 
 Terima kasih sudah dibaca :)
